@@ -11,5 +11,5 @@ result_dict = json.loads(result.text) #parse the json string into a dict object
 
 print(result.status_code) 
 print(result_dict["humidity"]) 
-#print(result_dict["humidity"]["data"][0]) 
-#print(result_dict["humidity"]["data"][0]["value"])
+print(result_dict["humidity"]["data"][0]) 
+print(result_dict["humidity"]["data"][0]["value"])
