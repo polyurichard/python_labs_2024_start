@@ -1,0 +1,322 @@
+{
+    "humidity": {
+        "data": [
+            {
+                "place": "Hong Kong Observatory",
+                "unit": "percent",
+                "value": 90
+            }
+        ],
+        "recordTime": "2024-09-17T23:00:00+08:00"
+    },
+    "icon": [
+        64
+    ],
+    "iconUpdateTime": "2024-09-17T21:50:00+08:00",
+    "lightning": {
+        "data": [
+            {
+                "occur": "true",
+                "place": "Lantau"
+            },
+            {
+                "occur": "true",
+                "place": "New Territories East"
+            },
+            {
+                "occur": "true",
+                "place": "New Territories West"
+            },
+            {
+                "occur": "true",
+                "place": "Hong Kong and Kowloon"
+            }
+        ],
+        "endTime": "2024-09-17T22:45:00+08:00",
+        "startTime": "2024-09-17T21:45:00+08:00"
+    },
+    "mintempFrom00To09": "",
+    "rainfall": {
+        "data": [
+            {
+                "main": "FALSE",
+                "max": 11,
+                "min": 4,
+                "place": "Central & Western District",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 23,
+                "min": 18,
+                "place": "Eastern District",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 4,
+                "min": 2,
+                "place": "Kwai Tsing",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 25,
+                "min": 0,
+                "place": "Islands District",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 12,
+                "min": 1,
+                "place": "North District",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 33,
+                "min": 14,
+                "place": "Sai Kung",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 14,
+                "min": 4,
+                "place": "Sha Tin",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 35,
+                "min": 0,
+                "place": "Southern District",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 38,
+                "min": 2,
+                "place": "Tai Po",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 5,
+                "min": 0,
+                "place": "Tsuen Wan",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 0,
+                "place": "Tuen Mun",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 15,
+                "min": 10,
+                "place": "Wan Chai",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 4,
+                "min": 0,
+                "place": "Yuen Long",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 13,
+                "min": 9,
+                "place": "Yau Tsim Mong",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 5,
+                "min": 3,
+                "place": "Sham Shui Po",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 18,
+                "min": 5,
+                "place": "Kowloon City",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 9,
+                "min": 7,
+                "place": "Wong Tai Sin",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 27,
+                "min": 14,
+                "place": "Kwun Tong",
+                "unit": "mm"
+            }
+        ],
+        "endTime": "2024-09-17T22:45:00+08:00",
+        "startTime": "2024-09-17T21:45:00+08:00"
+    },
+    "rainfallFrom00To12": "",
+    "rainfallJanuaryToLastMonth": "",
+    "rainfallLastMonth": "",
+    "tcmessage": [
+        "Here is the information on Tropical Depression at 11 p.m.:\nLocation: 16.5 degrees north, 115.6 degrees east."
+    ],
+    "temperature": {
+        "data": [
+            {
+                "place": "King's Park",
+                "unit": "C",
+                "value": 25
+            },
+            {
+                "place": "Hong Kong Observatory",
+                "unit": "C",
+                "value": 27
+            },
+            {
+                "place": "Wong Chuk Hang",
+                "unit": "C",
+                "value": 26
+            },
+            {
+                "place": "Ta Kwu Ling",
+                "unit": "C",
+                "value": 26
+            },
+            {
+                "place": "Lau Fau Shan",
+                "unit": "C",
+                "value": 27
+            },
+            {
+                "place": "Tai Po",
+                "unit": "C",
+                "value": 27
+            },
+            {
+                "place": "Sha Tin",
+                "unit": "C",
+                "value": 27
+            },
+            {
+                "place": "Tuen Mun",
+                "unit": "C",
+                "value": 28
+            },
+            {
+                "place": "Tseung Kwan O",
+                "unit": "C",
+                "value": 25
+            },
+            {
+                "place": "Sai Kung",
+                "unit": "C",
+                "value": 26
+            },
+            {
+                "place": "Cheung Chau",
+                "unit": "C",
+                "value": 28
+            },
+            {
+                "place": "Chek Lap Kok",
+                "unit": "C",
+                "value": 29
+            },
+            {
+                "place": "Tsing Yi",
+                "unit": "C",
+                "value": 27
+            },
+            {
+                "place": "Shek Kong",
+                "unit": "C",
+                "value": 26
+            },
+            {
+                "place": "Tsuen Wan Ho Koon",
+                "unit": "C",
+                "value": 26
+            },
+            {
+                "place": "Tsuen Wan Shing Mun Valley",
+                "unit": "C",
+                "value": 26
+            },
+            {
+                "place": "Hong Kong Park",
+                "unit": "C",
+                "value": 26
+            },
+            {
+                "place": "Shau Kei Wan",
+                "unit": "C",
+                "value": 24
+            },
+            {
+                "place": "Kowloon City",
+                "unit": "C",
+                "value": 25
+            },
+            {
+                "place": "Happy Valley",
+                "unit": "C",
+                "value": 26
+            },
+            {
+                "place": "Wong Tai Sin",
+                "unit": "C",
+                "value": 26
+            },
+            {
+                "place": "Stanley",
+                "unit": "C",
+                "value": 24
+            },
+            {
+                "place": "Kwun Tong",
+                "unit": "C",
+                "value": 25
+            },
+            {
+                "place": "Sham Shui Po",
+                "unit": "C",
+                "value": 27
+            },
+            {
+                "place": "Kai Tak Runway Park",
+                "unit": "C",
+                "value": 25
+            },
+            {
+                "place": "Yuen Long Park",
+                "unit": "C",
+                "value": 28
+            },
+            {
+                "place": "Tai Mei Tuk",
+                "unit": "C",
+                "value": 26
+            }
+        ],
+        "recordTime": "2024-09-17T23:00:00+08:00"
+    },
+    "updateTime": "2024-09-17T23:31:00+08:00",
+    "uvindex": "",
+    "warningMessage": [
+        "The Amber Rainstorm Warning Signal has been issued.",
+        "The Thunderstorm Warning has been issued. It will remain effective until 1:30 a.m. tomorrow. A few squally thunderstorms are expected to occur over Hong Kong."
+    ]
+}
